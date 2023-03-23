@@ -9,10 +9,9 @@ body {
   position: relative;
   overflow: hidden;
   padding: 10px;
-  background-color: #c9e0f4;
+  background-color: #000000;
   box-sizing: border-box;
 }
-
 
 .border-top, .border-bottom {
   width: 100%;
