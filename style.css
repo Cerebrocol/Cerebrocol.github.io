@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  background-color: #c9e0f4;
+  background-color: #000000;
 }
 
 #container {
@@ -27,4 +27,8 @@ body {
   0% {background-position: 0% 50%}
   50% {background-position: 100% 50%}
   100% {background-position: 0% 50%}
+}
+#netcol {
+  text-align: center;
+  color: green;
 }
